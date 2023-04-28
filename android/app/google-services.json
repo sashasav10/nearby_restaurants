@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "419208201817",
+    "project_id": "nearrestaurants-75bd8",
+    "storage_bucket": "nearrestaurants-75bd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419208201817:android:1968eed1a719a1ed2c9348",
+        "android_client_info": {
+          "package_name": "com.example.nearrestaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419208201817-amkfvndhu9s8k4287tj8643ei0k27cri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nearrestaurants",
+            "certificate_hash": "2ea5c7afde8f1433dad30411902fa529bd35c6dc"
+          }
+        },
+        {
+          "client_id": "419208201817-869dmkbra6d17futa6n278uug6hb5bd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtN5BVeD94TbJXwQnvrXEcEFQXxAtaXQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419208201817-869dmkbra6d17futa6n278uug6hb5bd8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419208201817-n6gs1urercdno0ja3isqfpq88nmj7hmv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nearrestaurants"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
